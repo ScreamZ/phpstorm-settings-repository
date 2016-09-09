@@ -1,0 +1,22 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="vcl" type="C++" />
+      <mapping pattern="*.ini.append.php" type="Ini" />
+      <mapping pattern="ConcourChevalType" type="Native" />
+      <mapping pattern="*.php.cache" type="PHP" />
+      <mapping ext="ctp" type="PHP" />
+      <mapping pattern="*.csv.txt" type="PLAIN_TEXT" />
+      <mapping pattern="categorie.tpl" type="PLAIN_TEXT" />
+      <mapping pattern="notes" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="consul" type="PLAIN_TEXT" />
+      <mapping pattern="note" type="PLAIN_TEXT" />
+      <mapping pattern="bloc_data.tpl" type="PLAIN_TEXT" />
+      <mapping pattern="dqsqd" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="include" type="htaccess" />
+    </extensionMap>
+  </component>
+</application>

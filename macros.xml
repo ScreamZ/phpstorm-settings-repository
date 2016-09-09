@@ -1,0 +1,7 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="ObjectAccessorPHP">
+      <typing text-keycode="45:0;153:1">-&gt;</typing>
+    </macro>
+  </component>
+</application>
